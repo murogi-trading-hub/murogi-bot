@@ -2,7 +2,7 @@
 
 Live trading site for Deriv binary options.
 
-**Live Site:** https://murogibinary.github.io/YOUR-REPO-NAME/
+**Live Site:** https://murogibinary.github.io/murogi-trading-hub/
 
 ### Features
 - Deriv API integration
