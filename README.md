@@ -1,0 +1,2 @@
+# murogi-bot
+AUTOMATE YOUR TRADES
